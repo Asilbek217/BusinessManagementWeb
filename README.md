@@ -21,7 +21,7 @@ This is for learning purpose.
 
 <!-- Qisqacha proyektingiz haqida informatsiya -->
   <p align="center">
-    project_description
+    Sayohat va dam olish uchun maxsus.
     <br />
     <a href="https://github.com/rustamxon7/personal-budget-planner"><strong>Explore the docs »</strong></a>
     <br />
