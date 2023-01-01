@@ -1,6 +1,7 @@
 # BusinessManagementWeb
 This is for learning purpose. 
 <div id="top"></div>
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -13,11 +14,11 @@ This is for learning purpose.
 <div align="center">
 <!-- Agar logo kerak bolmasa ochirib tashlang  -->
   <a href="https://github.com/rustamxon7/personal-budget-planner">
-    <img src="img/Buccara.png" alt="Logo" width="100" height="100">
+    <!-- <img src="img/Buccara.png" alt="Logo" width="100" height="100"> -->
   </a>
   
 <!-- Sizning proyektingizni nomi -->
-<h3 align="center">Buccara TRavel</h3>
+<h3 align="center">Buccara Travel</h3>
 
 <!-- Qisqacha proyektingiz haqida informatsiya -->
   <p align="center">
@@ -68,7 +69,7 @@ This is for learning purpose.
 
 <!-- Proyektingiz haqida ma'lumot kamida 3ta gapdan tashkil topsin -->
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `rustamxon7`, `personal-budget-planner`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `AsilbekYoldashaliyev`, `personal-budget-planner`, `twitter_handle`, `linkedin_username`, `email_client`, `yoldashaliyev0303@gmail.com`, `BusinessManagementWeb`, `O'zingizning ish faoliyatingizni kuchaytirish uchun eng yaxshi yo'l.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -76,7 +77,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 <!-- Qaysi dasturlash tillaridan tashkil topgani haqida yozing ma'lumot bilan -->
 
-Description....
+Bu website faqatgina html va css dan tashkil topgan.
 
 <!-- Dasturlash tillarini o'zingizni dasturingizga qarab to'g'rilang o'zgartiring -->
 
@@ -119,7 +120,7 @@ This is an example of how to list things you need to use the software and how to
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/rustamxon7/personal-budget-planner.git
+   git clone https://github.com/AsilbekYoldashaliyev/business-management-web
    ```
 3. Install NPM packages
    ```sh
@@ -168,7 +169,7 @@ See the [open issues](https://github.com/rustamxon7/personal-budget-planner/issu
 <!-- Proyektingizda kimlar qatnachga shu kishilarni ishmini va githubini yozing -->
 <!-- Bu qismini qoldirishingiz mumkin -->
 
-Rustam Tolipov - [@signing githubingiz](github linki) - email@example.com
+Asilbek Yoldashaliyev - [@signing githubingiz](https://github.com/AsilbekYoldashaliyev) - email@example.com
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -188,7 +189,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
-Project Link: [https://github.com/rustamxon7/personal-budget-planner](https://github.com/rustamxon7/personal-budget-planner)
+Project Link: [https://github.com/AsilbekYoldashaliyev](https://github.com/rustamxon7/personal-budget-planner)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
